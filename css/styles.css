@@ -1,3 +1,19 @@
+#start-button {
+  padding: 10px;
+  background-color: #04AA6D;
+  color: white;
+  border: none;
+  width: auto;
+}
+
+.middle-container {
+  display: flex;
+  /* justify-content: center; */
+  align-items: center;
+  flex-direction: column;
+  
+}
+
 /* Add a black background color to the top navigation */
 .topnav {
   background-color: #333;
